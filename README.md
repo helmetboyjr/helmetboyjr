@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, It's czar</h2>
 
-<!--
-**helmetboyjr/helmetboyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<th> About Me 🤩 </th>
+<th> My GitPet! </th>
+</tr>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+  ```cpp
+  class Czar {
+        private:
+          int age = 20;
+          string school = "Galgotias University";
+          string[] courses = new string[] {"Data Structures and Algorithms, Object Oriented Programming in c++"};
+          string[] hobbies = new string[] {"Cricket", "Fifa"};
+        public:
+          Czar();
+  }
+  ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
+
+  <picture style="width=40%;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=helmetboyjr&petname=Jack&theme=dark&species=wolf">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitpets.fly.dev/api?username=helmetboyjr&petname=Jack&theme=light&species=wolf">
+  <img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=helmetboyjr&petname=Jack&theme=dark&species=wolf" width="200px">
+</picture>
+
+
+</td>
+</tr>
+</table>
